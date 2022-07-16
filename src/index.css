@@ -1,6 +1,7 @@
 .res-circle {
   /* (A) PERCENTAGE WIDTH & BORDER RADIUS */
-width: 20%;
+  margin:3%;
+width: 12%;
 border-style: solid;
 border-width:1px;
   border-color: red;
@@ -29,6 +30,7 @@ border-width:1px;
   bottom: 50%;
   width: 100%;
   text-align: center;
+  font-size: 1.5vw;
  
   /* (E2) THE FONT - NOT REALLY IMPORTANT */
   font-family: arial, sans-serif;
